@@ -1,6 +1,6 @@
-Meu primerio
+Meu primeiro
 arquivo 
-do
+de teste do
 github
-
 :D
+...
